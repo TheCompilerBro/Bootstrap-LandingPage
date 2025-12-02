@@ -4,7 +4,7 @@ Perfect for startups, SaaS products, agencies, and personal business portfolios.
 This project includes a full landing page with a hero section, features, pricing plans, testimonials, and a contact form — all styled with smooth hover effects and a modern UI.</p>
 
 <h1>📌 Live Preview</h1>
-https://github.com/TheCompilerBro/Bootstrap-LandingPage
+<p>https://bootstarp-landing-page.netlify.app</p>
 <h1>🚀 Features </h1>
 <li>Fully responsive layout
 Modern Bootstrap 5 UI components
