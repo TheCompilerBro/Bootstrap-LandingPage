@@ -16,7 +16,8 @@ Testimonials with profile images
 Contact form UI
 Footer with social media links
 Clean and readable code</li>
-
+<h1>Images link</h1>
+<p> bootstarp-landingpage/image</p>
 <h1>🛠️ Tech Stack</h1>
 <li>HTML5
 CSS3 (custom styles) 
